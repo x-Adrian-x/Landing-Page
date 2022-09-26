@@ -72,7 +72,7 @@ export const EstudiosPage = () => {
 
       <figure className="md:flex bg-slate-700 rounded-xl p-8 md:p-0 mx-5 my-auto md:ml-6 md:mr-16 border-8 border-green-700 shadow-2xl shadow-slate-700">
         <img
-          className="w-24 h-24 md:w-28 md:h-28 my-auto md:mx-8 mx-auto md:my-6 rounded-xl"
+          className="w-24 h-24 md:w-28 md:h-28 my-auto md:mx-8 mx-auto md:my-6 rounded-full"
           src={estudio4}
           alt=""
           width="384"
@@ -85,7 +85,7 @@ export const EstudiosPage = () => {
             </p>
           </blockquote>
           <figcaption className="text-white font-normal">
-            <div>FIMLM - LiveVox - TdeA</div>
+            <div>Campus FIMLM - LiveVox - TdeA</div>
             <div>2022</div>
           </figcaption>
         </div>
